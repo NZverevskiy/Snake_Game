@@ -18,10 +18,10 @@ int nTail = 0;
 enum eDirection { STOP = 0, LEFT, RIGHT, UP, DOWN };
 eDirection dir;
 
-void Setup();//запуск
-void Draw();//функция рисовки карты
-void Input();//ввод данных пользователя
-void Logic();//логика программы
+void Setup();//Р·Р°РїСѓСЃРє
+void Draw();//С„СѓРЅРєС†РёСЏ СЂРёСЃРѕРІРєРё РєР°СЂС‚С‹
+void Input();//РІРІРѕРґ РґР°РЅРЅС‹С… РїРѕР»СЊР·РѕРІР°С‚РµР»СЏ
+void Logic();//Р»РѕРіРёРєР° РїСЂРѕРіСЂР°РјРјС‹
 
 int main() {
 
